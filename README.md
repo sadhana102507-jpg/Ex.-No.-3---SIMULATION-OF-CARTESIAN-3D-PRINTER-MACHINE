@@ -60,7 +60,9 @@
 
 ## Output:
 <img width="1300" height="757" alt="Screenshot 2025-12-19 220357" src="https://github.com/user-attachments/assets/507b8539-1c9c-4339-9bca-98b09b207c2a" />
+
 ## Explanation:
+
 This experiment demonstrates the working of a Cartesian 3D printer, which moves along three perpendicular axes: X, Y, and Z.
 
 X-axis controls left–right movement
@@ -78,6 +80,7 @@ The nozzle follows the given coordinates layer by layer.
 Material is deposited according to the programmed path to form a 3D object.
 
 The output image shows the final printed shape created by the coordinated motion of all three axes.
+
 ### Name: SADHANA R
 ### Register Number:25017643
 
